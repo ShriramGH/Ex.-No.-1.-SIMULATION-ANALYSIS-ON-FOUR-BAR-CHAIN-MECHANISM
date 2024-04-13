@@ -50,7 +50,7 @@
 ## Output:
 ![image](https://github.com/ShriramGH/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/117991122/93aae9fd-0320-4839-b7d6-95efdebbd524)
 
-![image](https://github.com/ShriramGH/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/117991122/08488f80-73d3-4a2b-aea8-2d81529aaaf9)
+![image](https://github.com/ShriramGH/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/117991122/c8784f8e-a554-4b6b-87ca-cc7b736cf5b0)
 
 ### Name: Shriram S
 ### Register Number: 212222240098
